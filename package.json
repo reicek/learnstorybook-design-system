@@ -1,12 +1,11 @@
 {
-  "name": "learnstorybook-design-system",
+  "name": "reicek-learnstorybook-design-system",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
-    "babel": "^6.23.0",
     "babel-loader": "8.1.0",
     "polished": "^3.6.6",
     "prop-types": "^15.7.2",
@@ -17,7 +16,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "cross-env BABEL_ENV=production babel src -d dist",
     "build-storybook-docs": "build-storybook -s public --docs",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
@@ -30,7 +29,10 @@
   },
   "babel": {
     "presets": [
-      "react-app"
+      "react-app",
+      {
+        "absoluteRuntime": false
+      }
     ]
   },
   "browserslist": {
@@ -46,6 +48,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/cli": "^7.12.10",
     "@storybook/addon-a11y": "^6.1.11",
     "@storybook/addon-actions": "^6.1.11",
     "@storybook/addon-essentials": "^6.1.11",
@@ -53,7 +56,14 @@
     "@storybook/node-logger": "^6.1.11",
     "@storybook/preset-create-react-app": "^3.1.5",
     "@storybook/react": "^6.1.11",
+    "auto": "^10.4.2",
     "chromatic": "^5.5.0",
+    "cross-env": "^7.0.3",
     "prettier": "^2.2.1"
-  }
+  },
+  "description": "getting started tutorial",
+  "main": "index.js",
+  "repository": "https://github.com/reicek/learnstorybook-design-system.git",
+  "author": "Cesar Anton Dorantes <reicek@gmail.com>",
+  "license": "MIT"
 }
