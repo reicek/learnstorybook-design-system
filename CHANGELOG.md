@@ -1,4 +1,4 @@
-# v0.1.2 (Wed Dec 16 2020)
+# v0.1.4 (Wed Dec 16 2020)
 
 #### 🐛 Bug Fix
 
@@ -7,6 +7,7 @@
 
 #### ⚠️ Pushed to `master`
 
+- fix ([@reicek](https://github.com/reicek))
 - Merge commit '669b69b03bab4019557fc8d32c5e66757670e518' into main ([@reicek](https://github.com/reicek))
 - usability tests ([@reicek](https://github.com/reicek))
 - Storybook deployment with GitHub action ([@reicek](https://github.com/reicek))
