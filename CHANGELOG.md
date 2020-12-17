@@ -1,5 +1,17 @@
 # v0.1.6 (Thu Dec 17 2020)
 
+#### 🐛 Bug Fix
+
+- Tutorial [#3](https://github.com/reicek/learnstorybook-design-system/pull/3) ([@reicek](https://github.com/reicek))
+
+#### Authors: 1
+
+- Cesar Anton Dorantes ([@reicek](https://github.com/reicek))
+
+---
+
+# v0.1.6 (Thu Dec 17 2020)
+
 #### ⚠️ Pushed to `master`
 
 - fixes (reicek@gmail.com)
