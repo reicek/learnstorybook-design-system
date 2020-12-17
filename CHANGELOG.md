@@ -1,5 +1,17 @@
 # v0.1.6 (Thu Dec 17 2020)
 
+#### ⚠️ Pushed to `master`
+
+- fixes (reicek@gmail.com)
+
+#### Authors: 1
+
+- Cesar Anton Dorantes (reicek@gmail.com)
+
+---
+
+# v0.1.6 (Thu Dec 17 2020)
+
 
 
 ---
