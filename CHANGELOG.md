@@ -1,13 +1,30 @@
-# v0.1.5 (Wed Dec 16 2020)
+# v0.1.6 (Thu Dec 17 2020)
 
-#### ⚠️ Pushed to `main`
+#### ⚠️ Pushed to `master`
 
-- autorelease ([@reicek](https://github.com/reicek))
-- name-update ([@reicek](https://github.com/reicek))
+- fixes (reicek@gmail.com)
 
 #### Authors: 1
 
-- Cesar Anton Dorantes ([@reicek](https://github.com/reicek))
+- Cesar Anton Dorantes (reicek@gmail.com)
+
+---
+
+# v0.1.6 (Thu Dec 17 2020)
+
+#### ⚠️ Pushed to `master`
+
+- fixes (reicek@gmail.com)
+
+#### Authors: 1
+
+- Cesar Anton Dorantes (reicek@gmail.com)
+
+---
+
+# v0.1.6 (Thu Dec 17 2020)
+
+
 
 ---
 
